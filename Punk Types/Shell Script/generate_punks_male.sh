@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define list of male human archetypes
+# Define a list of male human archetypes for punks.
 declare -a archetypes=(
   "Human 1" "Human 2" "Human 3" "Human 4"
   "Human 1 (N)" "Human 2 (N)" "Human 3 (N)" "Human 4 (N)"

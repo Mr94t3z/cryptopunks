@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define list of female human archetypes
+# Define a list of female human archetypes for punks.
 declare -a archetypes=(
   "Human Female 1 (U)" "Human Female 2 (U)" "Human Female 3 (U)" "Human Female 4 (U)"
   "Human Female 1" "Human Female 2" "Human Female 3" "Human Female 4"
@@ -12,7 +12,6 @@ declare -a archetypes=(
   "Human Female Ivory" "Human Female Orange" "Human Female Warm Red" "Human Female Red" "Human Female Rubine Red" "Human Female Pink"
   "Human Female Purple" "Human Female Blue" "Human Female Violet" "Human Female Yellow" "Human Female Gold 1" "Human Female Gold 2" "Human Female Gold 3"
 )
-
 
 # Specify the output directory
 output_dir="../Female"
