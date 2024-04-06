@@ -1,7 +1,9 @@
 #!/bin/bash
 
-# Define your list of human archetypes
+# Define list of male human archetypes
 declare -a archetypes=(
+  "Human 1" "Human 2" "Human 3" "Human 4"
+  "Human 1 (N)" "Human 2 (N)" "Human 3 (N)" "Human 4 (N)"
   "Human M10" "Human M09" "Human M08" "Human M07" "Human M06" "Human M05" "Human M04" "Human M03" "Human M02" "Human M01"
   "Human Chocolate" "Human Espresso" "Human Golden" "Human Umber" "Human Bronze" "Human Chestnut"
   "Human Almond" "Human Band" "Human Honey" "Human Sienna" "Human Beige" "Human Limestone"
