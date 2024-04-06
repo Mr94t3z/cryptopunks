@@ -1,16 +1,14 @@
 #!/bin/bash
 
-# Define a list of ape archetypes for punks.
+# Define a list of zombie archetypes for punks.
 declare -a archetypes=(
-  "Ape" "Ape (N)" "Ape (N2)" "Ape Female (U)" "Ape Female"
-  "Ape Gold 1" "Ape Gold 2" "Ape Gold 3" "Ape Female Gold 1" "Ape Female Gold 2" "Ape Female Gold 3"
-  "Ape Black" "Ape Gray" "Ape Dark Brown" "Ape Brown" "Ape Golden Brown" "Ape Cheetah"
-  "Ape Blue" "Ape DMT" "Ape Pink" "Ape Red" "Ape Tan" "Ape Cream" "Ape White" "Ape Trippy"
-  "Ape Noise" "Ape Solid Gold" "Ape Bot" "Ape Death Bot"
+  "Zombie" "Zombie (N)" "Zombie (N2)" "Zombie Female (U)" "Zombie Female"
+  "Zombie Gold 1" "Zombie Gold 2" "Zombie Gold 3" "Zombie Female Gold 1" "Zombie Female Gold 2" "Zombie Female Gold 3"
 )
 
+
 # Specify the output directory
-output_dir="../Ape"
+output_dir="../Punk Types/Zombie"
 
 # Create the output directory if it doesn't exist
 mkdir -p "$output_dir"

@@ -14,7 +14,7 @@ declare -a archetypes=(
 )
 
 # Specify the output directory
-output_dir="../Alien"
+output_dir="../Punk Types/Alien"
 
 # Create the output directory if it doesn't exist
 mkdir -p "$output_dir"
